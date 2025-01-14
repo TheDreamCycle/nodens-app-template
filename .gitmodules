@@ -1,0 +1,4 @@
+[submodule "dependencies/nodens-engine"]
+	path = dependencies/nodens-engine
+	url = https://github.com/TheDreamCycle/nodens-engine.git
+
